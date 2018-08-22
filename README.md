@@ -1,4 +1,4 @@
-# HelloAll-CMP73010
+# Shu's HelloAll-CMP73010
 My repository for my class
 going on good:- surender singh berwal
 My repository for my class:
