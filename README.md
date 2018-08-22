@@ -1,2 +1,2 @@
-# HelloAll-CMP73010
+# Shu's HelloAll-CMP73010
 My repository for my class
